@@ -1,0 +1,6 @@
+h1{color:red}
+p.abc{
+text-decoration:underline;
+text-decoration-color:red;
+text-decoration-thickness:3px;
+}
